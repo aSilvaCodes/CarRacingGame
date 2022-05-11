@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\bin\Debug\Andrew'sCarRacingGame.exe.config
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\bin\Debug\Andrew'sCarRacingGame.exe
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\bin\Debug\Andrew'sCarRacingGame.pdb
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\obj\Debug\Andrew'sCarRacingGame.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\obj\Debug\Andrew_sCarRacingGame.Form1.resources
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\obj\Debug\Andrew_sCarRacingGame.Properties.Resources.resources
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\obj\Debug\Andrew'sCarRacingGame.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\obj\Debug\Andrew'sCarRacingGame.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\obj\Debug\Andrew'sCarRacingGame.exe
+C:\Users\andre\source\repos\Andrew'sCarRacingGame\Andrew'sCarRacingGame\obj\Debug\Andrew'sCarRacingGame.pdb
